@@ -43,8 +43,6 @@ end
 s1 = Song.new("Lucifer", "Jay-Z", "rap")
 s2 = Song.new("99 Problems", "Jay-Z", "rap")
 s3 = Song.new("hit me baby one more time", "Brittany Spears", "pop")
-
-
 # binding.pry
 
 # puts "Arbitrary"
